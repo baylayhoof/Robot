@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+3<?xml version='1.0' encoding='utf-8'?>
 
 
 <widget id="com.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" >
@@ -12,8 +12,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team , anvendt af Lone Osterlund
     </author>
-	
-	<content src="hovedregning.html" />
+
     <content src="index.html" />
 
     
